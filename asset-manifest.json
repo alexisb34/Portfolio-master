@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-master/static/css/main.11835b37.css",
-    "main.js": "/Portfolio-master/static/js/main.505b9cb7.js",
+    "main.js": "/Portfolio-master/static/js/main.66ec3cb5.js",
     "static/js/988.6a25501d.chunk.js": "/Portfolio-master/static/js/988.6a25501d.chunk.js",
     "static/media/mr-bean.gif": "/Portfolio-master/static/media/mr-bean.12f121c6bfa3b8d0f96c.gif",
     "static/media/portrait.jpg": "/Portfolio-master/static/media/portrait.a643bdc4c9b659619997.jpg",
@@ -16,11 +16,11 @@
     "static/media/miriamclm-book-webfont.woff2": "/Portfolio-master/static/media/miriamclm-book-webfont.6254b7da99a881982a29.woff2",
     "index.html": "/Portfolio-master/index.html",
     "main.11835b37.css.map": "/Portfolio-master/static/css/main.11835b37.css.map",
-    "main.505b9cb7.js.map": "/Portfolio-master/static/js/main.505b9cb7.js.map",
+    "main.66ec3cb5.js.map": "/Portfolio-master/static/js/main.66ec3cb5.js.map",
     "988.6a25501d.chunk.js.map": "/Portfolio-master/static/js/988.6a25501d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11835b37.css",
-    "static/js/main.505b9cb7.js"
+    "static/js/main.66ec3cb5.js"
   ]
 }
