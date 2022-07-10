@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio-master/static/css/main.11835b37.css",
+    "main.css": "/Portfolio-master/static/css/main.681f13ac.css",
     "main.js": "/Portfolio-master/static/js/main.66ec3cb5.js",
     "static/js/988.6a25501d.chunk.js": "/Portfolio-master/static/js/988.6a25501d.chunk.js",
     "static/media/mr-bean.gif": "/Portfolio-master/static/media/mr-bean.12f121c6bfa3b8d0f96c.gif",
+    "static/media/spartwell-webfont.woff": "/Portfolio-master/static/media/spartwell-webfont.a73743e05baaa7e1f310.woff",
     "static/media/portrait.jpg": "/Portfolio-master/static/media/portrait.a643bdc4c9b659619997.jpg",
+    "static/media/spartwell-webfont.woff2": "/Portfolio-master/static/media/spartwell-webfont.a5be861500462e914ed4.woff2",
     "static/media/page_accueil.jpg": "/Portfolio-master/static/media/page_accueil.acd2aa1463a24fdac146.jpg",
     "static/media/made_canvas_black_personal_use-webfont.woff": "/Portfolio-master/static/media/made_canvas_black_personal_use-webfont.5c77e7bd7e14aa7616bd.woff",
-    "static/media/made_canvas_regular_personal_use-webfont.woff": "/Portfolio-master/static/media/made_canvas_regular_personal_use-webfont.497c6466ac3c7f982e49.woff",
+    "static/media/made_canvas_regular_personal_use-webfont.woff": "/Portfolio-master/static/media/made_canvas_regular_personal_use-webfont.14745ab1c414106bc9e7.woff",
     "static/media/made_canvas_black_personal_use-webfont.woff2": "/Portfolio-master/static/media/made_canvas_black_personal_use-webfont.8165e42f47b83d734dc3.woff2",
-    "static/media/made_canvas_regular_personal_use-webfont.woff2": "/Portfolio-master/static/media/made_canvas_regular_personal_use-webfont.4273cc11021e916f4330.woff2",
+    "static/media/made_canvas_regular_personal_use-webfont.woff2": "/Portfolio-master/static/media/made_canvas_regular_personal_use-webfont.b7198e0405f5bae0f43f.woff2",
     "static/media/mindthecaps-demoversion-webfont.woff": "/Portfolio-master/static/media/mindthecaps-demoversion-webfont.c2f973b49e23e1cd0bca.woff",
     "static/media/mindthecaps-demoversion-webfont.woff2": "/Portfolio-master/static/media/mindthecaps-demoversion-webfont.4b17e6d330fea744bef7.woff2",
     "static/media/miriamclm-book-webfont.woff": "/Portfolio-master/static/media/miriamclm-book-webfont.1d488675ebf838a56f48.woff",
     "static/media/miriamclm-book-webfont.woff2": "/Portfolio-master/static/media/miriamclm-book-webfont.6254b7da99a881982a29.woff2",
     "index.html": "/Portfolio-master/index.html",
-    "main.11835b37.css.map": "/Portfolio-master/static/css/main.11835b37.css.map",
+    "main.681f13ac.css.map": "/Portfolio-master/static/css/main.681f13ac.css.map",
     "main.66ec3cb5.js.map": "/Portfolio-master/static/js/main.66ec3cb5.js.map",
     "988.6a25501d.chunk.js.map": "/Portfolio-master/static/js/988.6a25501d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.11835b37.css",
+    "static/css/main.681f13ac.css",
     "static/js/main.66ec3cb5.js"
   ]
 }
