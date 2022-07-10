@@ -33,7 +33,7 @@ const AboutMe = (props,ref) => {
                   scale: 1.68,
                 }}
               >
-                Bonjourr, je m'appelle Alexis j'ai 32 ans et je suis originaire du sud
+                Bonjour, je m'appelle Alexis j'ai 32 ans et je suis originaire du sud
                 de la France.
                 Je me suis installé récemment à Nantes pour entreprendre une reconversion
                 professionnel dans le métier de développeur web.
