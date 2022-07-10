@@ -8,7 +8,6 @@
        url('./assets/fonts/made_canvas_regular_personal_use-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
-
 }
 @font-face {
   font-family: 'mind_the_caps';
@@ -17,7 +16,6 @@
   font-weight: normal;
   font-style: normal;
 }
-
 @font-face {
   font-family: 'miriam_clmbook';
   src: url('./assets/fonts/miriamclm-book-webfont.woff2') format('woff2'),
