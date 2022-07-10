@@ -35,9 +35,27 @@
 
 }
 
+@font-face {
+  font-family: 'spartwellregular';
+  src: url('./assets/fonts/spartwell-webfont.woff2') format('woff2'),
+       url('./assets/fonts/spartwell-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'made_canvasregular';
+  src: url('made_canvas_regular_personal_use-webfont.woff2') format('woff2'),
+       url('made_canvas_regular_personal_use-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
 @layer base {
   #quote {
-    font-family: "Spartwell";
+    font-family: "spartwellregular";
     font-size: 40px;
     font-weight: 400;
     line-height: 30px;
@@ -45,10 +63,10 @@
     text-align: left;
   }
   .font-spartwell{
-    font-family: "Spartwell";
+    font-family: "spartwellregular";
   }
   .font-canvasBlack{
-    font-family: 'MADE Canvas';
+    font-family: 'made_canvasregular';
     font-style: normal;
   }
 }
