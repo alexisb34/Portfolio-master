@@ -1,4 +1,4 @@
-import React, { useRef, forwardRef } from "react";
+import React, { forwardRef } from "react";
  
 const NavbarPhone = forwardRef(({ onWorkClick, onAboutMeClick, onContactClick },ref) => {
   

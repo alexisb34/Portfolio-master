@@ -1,8 +1,7 @@
-import React, { useRef, forwardRef } from "react";
+import React, { forwardRef } from "react";
 import { saveAs } from "file-saver";
 import AnimatedText from 'react-animated-text-content';
 import { API_URL } from "../config";
-import Typography from '@mui/material/Typography';
 import { AiOutlineLinkedin } from "react-icons/ai";
 import photoPortrait from '../assets/images/portrait.jpg';
 
@@ -21,7 +20,7 @@ const AboutMe = (props,ref) => {
       <div className="justify-center text-center pt-28">
         <div className="block">
           <div className="lg:flex justify-center">
-            <img className= "rounded-lg m-auto mb-10 block h-72 lg:mt-20 lg:m-10  fadeIn"src= {photoPortrait} alt="image"/>
+            <img className= "rounded-lg m-auto mb-10 block h-72 lg:mt-20 lg:m-10  fadeIn"src= {photoPortrait} alt="portrait"/>
             <div>      
               <span ref={ref} className="text-my-yellow lg:text-4xl text-2xl lg:pr-48 font-canvasBlack">Qui suis-je<br/></span>
               <AnimatedText

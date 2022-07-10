@@ -1,4 +1,4 @@
-import React, { useEffect, useState, useRef, forwardRef } from "react";
+import React, { useEffect, useState, forwardRef } from "react";
 import CardPost from "./CardPost";
 import { Grid, Box } from '@mui/material';
 import Skeleton from '@mui/material/Skeleton';

@@ -41,18 +41,12 @@ const Contact = (props, ref) => {
       body: json
     })
     .then(async (response) => {
-      let json = await response.json();
-      if (response.status == 200) {
+      // let json = await response.json();
+      if (response.status === 200) {
         setSubmitted(true);
-        // result.innerHTML = json.message;
-        // result.classList.remove("text-gray-500");
-        // result.classList.add("text-green-500");
       }
       else {
         console.log(response);
-        // result.innerHTML = json.message;
-        // result.classList.remove("text-gray-500");
-        // result.classList.add("text-red-500");
       }
     })
     .catch((error) => {
@@ -61,9 +55,6 @@ const Contact = (props, ref) => {
     })
     .then(function () {
       form.current.reset();
-      setTimeout(() => {
-        // result.style.display = "none";
-      }, 5000);
     });
   };
 	

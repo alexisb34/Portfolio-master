@@ -1,6 +1,5 @@
 import './App.css';
-import React, { useRef, forwardRef } from "react";
-import Navbar from "./components/NavbarPhone";
+import React, { useRef } from "react";
 import AboutMe from "./components/AboutMe";
 import Posts from "./components/Posts";
 import Contact from "./components/Contact";
