@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-master/static/css/main.681f13ac.css",
-    "main.js": "/Portfolio-master/static/js/main.66ec3cb5.js",
+    "main.css": "/Portfolio-master/static/css/main.401d78d8.css",
+    "main.js": "/Portfolio-master/static/js/main.57f8d47d.js",
     "static/js/988.6a25501d.chunk.js": "/Portfolio-master/static/js/988.6a25501d.chunk.js",
     "static/media/mr-bean.gif": "/Portfolio-master/static/media/mr-bean.12f121c6bfa3b8d0f96c.gif",
     "static/media/spartwell-webfont.woff": "/Portfolio-master/static/media/spartwell-webfont.a73743e05baaa7e1f310.woff",
@@ -17,12 +17,12 @@
     "static/media/miriamclm-book-webfont.woff": "/Portfolio-master/static/media/miriamclm-book-webfont.1d488675ebf838a56f48.woff",
     "static/media/miriamclm-book-webfont.woff2": "/Portfolio-master/static/media/miriamclm-book-webfont.6254b7da99a881982a29.woff2",
     "index.html": "/Portfolio-master/index.html",
-    "main.681f13ac.css.map": "/Portfolio-master/static/css/main.681f13ac.css.map",
-    "main.66ec3cb5.js.map": "/Portfolio-master/static/js/main.66ec3cb5.js.map",
+    "main.401d78d8.css.map": "/Portfolio-master/static/css/main.401d78d8.css.map",
+    "main.57f8d47d.js.map": "/Portfolio-master/static/js/main.57f8d47d.js.map",
     "988.6a25501d.chunk.js.map": "/Portfolio-master/static/js/988.6a25501d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.681f13ac.css",
-    "static/js/main.66ec3cb5.js"
+    "static/css/main.401d78d8.css",
+    "static/js/main.57f8d47d.js"
   ]
 }
