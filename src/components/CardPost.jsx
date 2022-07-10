@@ -44,6 +44,7 @@ const theme = createTheme({
 const CardPost = ({projet}) => {
   
   const style = {
+  fontFamily: 'miriam_clmbook, Roboto',
   position: 'absolute',
   top: '50%',
   left: '50%',

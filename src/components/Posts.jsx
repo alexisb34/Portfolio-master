@@ -29,7 +29,7 @@ const Posts = (props,ref) => {
   return (
    
     <div className="projects">  
-     <h1 ref={ref} className="text-my-yellow text-2xl font-canvasBlack mt-4 mb-4 text-center lg:text-4xl font-made_canvas fadeIn">Mes projets</h1>
+     <h1 ref={ref} className="text-my-yellow text-2xl font-canvasBlack mt-4 mb-4 text-center lg:text-4xl font-canvasBlack fadeIn">Mes projets</h1>
 	 <Grid container className="flex justify-center pt-6 " >
 		{isLoading ?(
 			<Box>

@@ -79,7 +79,7 @@ const Contact = (props, ref) => {
       className="pb-10 fadeIn"
     >
       <input type="hidden" name="access_key" value="911a574e-cb2e-46aa-bce7-be98735f08d0"></input>
-      <h1 ref={ref} className="text-my-yellow text-2xl lg:text-4xl font-canvasBlack mt-20 text-center font-made_canvas">Contact</h1>
+      <h1 ref={ref} className="text-my-yellow text-2xl lg:text-4xl mt-20 text-center font-canvasBlack">Contact</h1>
       <div className="mb-3 pt-16 text-center">
         <input type="hidden" name="from_name" value="Portfolio"/>
         <input type="checkbox" name="botcheck" id="" style={{ display: "none" }}/>
