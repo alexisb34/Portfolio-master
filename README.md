@@ -1,8 +1,3 @@
-
-Voici un modèle de fichier README formaté avec les informations que tu as fournies :
-
-markdown
-Copier le code
 # Portfolio - Alexis Bengel
 
 ## Description
